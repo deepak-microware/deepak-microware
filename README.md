@@ -157,10 +157,10 @@ Enterprise Resource Planning solution for financial cooperatives and federations
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dk161515&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dk161515&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepak-microware&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-microware&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dk161515&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepak-microware&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
 </div>
 
